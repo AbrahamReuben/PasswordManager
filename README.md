@@ -54,4 +54,4 @@ I do not take any reposnsibility for data loss or misuse by using this tool.
 - When there is a match, the entries are limited to 5, so that any one viewing your screen do not get an idea on how many entries are present in your database
 - 'Search' field can work with a part or whole of a keyword to return the matching results
 - 'Group' field only works with a valid complete Group name from the Data sheet, this is to limit the usage to only those who knows what is in the database
-
+- When sheet and workbook protection is active, accidental deletes and edits on the result set does not cause any dammage to the main data as the result set is a SPILL of the LET function
