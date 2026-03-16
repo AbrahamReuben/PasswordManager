@@ -46,7 +46,7 @@ I do not take any reposnsibility for data loss or misuse by using this tool.
   - limits the results to 6 rows (inc. header)
 - Cells 'Main'!E7:E11 are formatted so that the text is white in color, thereby making the passwords invisible, yet be copied using a Ctrl+C
 
-### Features
+## Features
 
 - 'Search' & 'Group' can be used separately or in combination to filter to the exact entry
 - A keyword of 'All' can be used in the 'Group' search to return all entries (limted to 5)
