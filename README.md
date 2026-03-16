@@ -23,7 +23,7 @@ I do not take any reposnsibility for data loss or misuse by using this tool.
 
 - All cells in the 'Main' sheet are locked, except the 'Search', 'Group' and result range. This limits users to interact with only the unlocked cells
 - 'Data' sheet is hidden and the Workbook is protected, which limits the user to view only the visible 'Main' sheet
-- Password to unprotect the sheet and workbook is - My.Excel.Password.Manager.v0
+- Password to unprotect the sheet and workbook is - ```My.Excel.Password.Manager.v0```
 
 ### 2. How to set up the data?
 
